@@ -1,2 +1,7 @@
 # Assets
-ロゴとか画像とか色々
+
+ロゴとか画像とか色々載せます。
+
+## License
+
+このリポジトリのみは例外的にAll Right Reservedです。
