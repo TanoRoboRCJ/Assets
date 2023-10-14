@@ -4,4 +4,4 @@
 
 ## License
 
-このリポジトリのみは例外的にAll Right Reservedです。
+このリポジトリのみは例外的にAll Rights Reservedです。
